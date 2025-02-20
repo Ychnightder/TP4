@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>y</groupId>
-    <artifactId>TP4</artifactId>
+    <artifactId>bserveur</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>

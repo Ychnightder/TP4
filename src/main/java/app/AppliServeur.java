@@ -1,6 +1,7 @@
 package app;
 
-import bserveur.server.Serveur;
+
+import server.Serveur;
 
 public class AppliServeur {
     public static void main(String[] args) {

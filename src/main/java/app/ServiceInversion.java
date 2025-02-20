@@ -1,6 +1,7 @@
 package app;
 
-import bserveur.server.Service;
+
+import server.Service;
 
 import java.io.BufferedReader;
 import java.io.IOException;
